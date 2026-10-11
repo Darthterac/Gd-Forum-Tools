@@ -77,6 +77,8 @@ Tracks the forum activity of users encountered during your browsing sessions, bu
 
 The leaderboard provides a snapshot of the activity flowing through the pages you visit. It measures observed forum participation, not total site-wide activity or the complete time users spend online.
 
+<img width="558" height="717" alt="image" src="https://github.com/user-attachments/assets/dd4a2191-f564-47c7-ac4f-147bf6da0a1f" />
+
 ### 5. Account Statistics and Metrics
 
 The floating interface displays live counters for the script's current tracking activity.
