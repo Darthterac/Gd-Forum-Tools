@@ -5,8 +5,8 @@
 GD Forum Tools adds a personal set of forum-management, profile-inspection, activity-tracking, and data-management features to the Blizzard World of Warcraft forums. Built with vanilla JavaScript, it works directly with the forum page through DOM manipulation, browser storage, asynchronous requests, and a custom floating interface.
 
 Developed by **Lazyeyez**.
+<img width="1915" height="886" alt="image" src="https://github.com/user-attachments/assets/6ecdd30d-7684-40c1-ab08-e03404c2779c" />
 
-<img width="1917" height="882" alt="image" src="https://github.com/user-attachments/assets/2793b67d-97b4-475e-aaf1-072f4ea80700" />
 **more pictures below**
 
 ## Overview
