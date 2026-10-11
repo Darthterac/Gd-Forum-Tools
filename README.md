@@ -66,24 +66,16 @@ A reporting interface presents the collected records, and the export function al
 
 **Important:** This is a local browsing-activity log, not access to hidden account information. The script does not reveal the actual last-seen or last-post values when Blizzard's profile response does not provide them.
 
-### 4. Weekly Forum Leaderboard
+### 4. Weekly Forum Activity Leaderboard
 
-GD Forum Tools maintains a weekly activity summary based on unique forum posts observed while browsing supported discussion pages.
+Tracks the forum activity of users encountered during your browsing sessions, building a leaderboard from their observed posts and participation.
 
-The weekly summary includes:
+* **Observed activity:** Records posts encountered by the script while browsing forum pages.
+* **Unique post tracking:** Deduplicates posts by post ID to avoid counting the same post repeatedly.
+* **Weekly rankings:** Ranks observed users by their recorded posting activity for the week.
+* **Topic participation:** Tracks unique topics and identifies shared discussions among the most active observed users.
 
-* A top-10 list of the most frequently observed user cards
-* Observed post counts for those users
-* The number of distinct topics associated with each user
-* The top three shared-topic intersections among the top users
-* The number of topics engaged with during the week
-* Changes in the configured account's recent reading time and trust level, when available
-
-The weekly tracking period begins on Sunday. The leaderboard resets when the script detects that the current week has a different Sunday start date.
-
-Post sightings are deduplicated by post ID within the weekly dataset, preventing the same observed post from being counted repeatedly.
-
-The leaderboard is based on posts encountered by the script while browsing. It is not a complete measurement of all activity across Blizzard's forums.
+The leaderboard provides a snapshot of the activity flowing through the pages you visit. It measures observed forum participation, not total site-wide activity or the complete time users spend online.
 
 ### 5. Account Statistics and Metrics
 
