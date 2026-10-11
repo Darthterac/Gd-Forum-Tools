@@ -31,8 +31,6 @@ If a user is still present on Blizzard's native ignore list, the interface provi
 
 <img width="1917" height="882" alt="image" src="https://github.com/user-attachments/assets/2793b67d-97b4-475e-aaf1-072f4ea80700" />
 
-<img width="1502" height="846" alt="Screenshot 2026-10-10 105538" src="https://github.com/user-attachments/assets/94e35e79-3360-456c-b615-9f1942fd0cf6" />
-
 ### 2. Topic User Profile Inspector
 
 On individual discussion topics, GD Forum Tools inspects participating user profiles and displays additional information alongside forum users.
@@ -44,10 +42,13 @@ Available profile information includes:
 * Last-post timestamp, when available
 * Recent forum reading time
 * Trust level
+* Rate Users Posts, survives weekly resets, shows in Weekly Report 
 
 Profile information is retrieved through asynchronous requests to the forum's user JSON endpoint. Results are cached during the current page session to reduce repeated requests.
 
 The script also identifies profiles where both last-seen and last-post timestamps are unavailable, marking them as private profiles for tracking purposes.
+
+<img width="1917" height="877" alt="image" src="https://github.com/user-attachments/assets/03aba304-c421-4fc5-8f34-a2bc7e5768c7" />
 
 ### 3. Private Profile Activity Log
 
@@ -77,7 +78,7 @@ Tracks the forum activity of users encountered during your browsing sessions, bu
 
 The leaderboard provides a snapshot of the activity flowing through the pages you visit. It measures observed forum participation, not total site-wide activity or the complete time users spend online.
 
-<img width="558" height="717" alt="image" src="https://github.com/user-attachments/assets/dd4a2191-f564-47c7-ac4f-147bf6da0a1f" />
+<img width="460" height="631" alt="image" src="https://github.com/user-attachments/assets/d4ec2798-510b-4415-9a64-ca48d846b53c" />
 
 ### 5. Account Statistics and Metrics
 
@@ -127,7 +128,8 @@ Stored datasets include:
 
 The data-management controls support clearing the private-profile log independently or wiping the script's principal datasets and reloading the page.
 
-Clearing this data is destructive. Export any information you want to retain before performing a full wipe.
+Clearing this data is destructive. Export any information you want to retain before performing a full wipe. The new Manage Data function has options to 
+export all or parts of your data, and import from back ups, making it easy to manage multiple accounts.
 
 ## Technical Implementation
 
@@ -220,8 +222,7 @@ The script is written against the forum's current page structure and JSON endpoi
 
 ## Version
 
-**Current documented version: 10.6**
-
+**Current documented version: 11.1**
 The userscript identifies itself as `GD Forum Tools`, uses the namespace `lazyeyez.gdforumtools`, and is authored by Lazyeyez.
 
 ## License
