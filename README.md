@@ -6,6 +6,9 @@ GD Forum Tools adds a personal set of forum-management, profile-inspection, acti
 
 Developed by **Lazyeyez**.
 
+<img width="1917" height="882" alt="image" src="https://github.com/user-attachments/assets/2793b67d-97b4-475e-aaf1-072f4ea80700" />
+**more pictures below**
+
 ## Overview
 
 GD Forum Tools is designed to give users more control over their forum experience while providing additional visibility into publicly available forum profile information and their own browsing activity.
@@ -28,8 +31,6 @@ Maintain a personal list of forum users whose topics you would rather not see.
 * Synchronize the local ignore list with Blizzard's native ignored-user list when the account user ID is configured.
 
 If a user is still present on Blizzard's native ignore list, the interface provides a link to the relevant forum preferences page so that the native ignore can be removed first.
-
-<img width="1917" height="882" alt="image" src="https://github.com/user-attachments/assets/2793b67d-97b4-475e-aaf1-072f4ea80700" />
 
 ### 2. Topic User Profile Inspector
 
