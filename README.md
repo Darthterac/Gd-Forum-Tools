@@ -31,8 +31,6 @@ If a user is still present on Blizzard's native ignore list, the interface provi
 
 <img width="1917" height="876" alt="image" src="https://github.com/user-attachments/assets/e59143b3-b103-4430-9870-704c25a190fa" />
 
-<img width="1801" height="857" alt="Screenshot 2026-10-10 091011" src="https://github.com/user-attachments/assets/5bd94010-b2a1-476a-bc98-02a516f4097b" />
-
 <img width="1502" height="846" alt="Screenshot 2026-10-10 105538" src="https://github.com/user-attachments/assets/94e35e79-3360-456c-b615-9f1942fd0cf6" />
 
 ### 2. Topic User Profile Inspector
