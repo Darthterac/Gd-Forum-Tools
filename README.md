@@ -29,7 +29,7 @@ Maintain a personal list of forum users whose topics you would rather not see.
 
 If a user is still present on Blizzard's native ignore list, the interface provides a link to the relevant forum preferences page so that the native ignore can be removed first.
 
-<img width="1917" height="876" alt="image" src="https://github.com/user-attachments/assets/e59143b3-b103-4430-9870-704c25a190fa" />
+<img width="1917" height="882" alt="image" src="https://github.com/user-attachments/assets/2793b67d-97b4-475e-aaf1-072f4ea80700" />
 
 <img width="1502" height="846" alt="Screenshot 2026-10-10 105538" src="https://github.com/user-attachments/assets/94e35e79-3360-456c-b615-9f1942fd0cf6" />
 
