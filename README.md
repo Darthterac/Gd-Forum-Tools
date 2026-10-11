@@ -7,7 +7,7 @@ Look at these screen shots, the minimize button shrinks the modal to a avatar si
 
 Exports as a csv or the copy button to grab all that 'private' data, It will find alts with the same usercard and record that with the last post and time they were seen.
 
-<img width="1842" height="832" alt="GDFTLAZY" src="https://github.com/user-attachments/assets/3f4db0e6-18b8-4637-9077-8e4514634009" />
+<img width="1226" height="748" alt="image" src="https://github.com/user-attachments/assets/4bc3f4db-5b2b-46d5-87cc-79df4d726e0f" />
 
 <img width="1801" height="857" alt="Screenshot 2026-10-10 091011" src="https://github.com/user-attachments/assets/5bd94010-b2a1-476a-bc98-02a516f4097b" />
 
