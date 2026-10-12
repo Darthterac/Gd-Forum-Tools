@@ -25,6 +25,8 @@ A userscript for the **World of Warcraft General Discussion forums** that adds a
 - [Version notes](#version-notes)
 - [License and disclaimer](#license-and-disclaimer)
 
+<img width="1917" height="867" alt="image" src="https://github.com/user-attachments/assets/78394859-7b51-45e4-9894-94155cf7fd49" />
+
 ---
 
 ## What it does
