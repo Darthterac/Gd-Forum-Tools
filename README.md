@@ -25,7 +25,9 @@ Everything runs in your own browser. There is no server, no account, no tracking
 - [License](#license)
 
 ---
+<img width="1905" height="896" alt="image" src="https://github.com/user-attachments/assets/9118d0ca-b2cc-48c7-be5d-ae3b14bd9edd" />
 
+---
 ## Features
 
 | Feature | What it does |
