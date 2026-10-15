@@ -261,5 +261,3 @@ Changing stored values by hand is possible but easy to get wrong. Use **Manage D
 ## License
 
 MIT License. © Lazyeyez.
-
-Add a `LICENSE` file to the repository with the standard MIT text so the terms are on record.
